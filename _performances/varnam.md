@@ -6,5 +6,6 @@ permalink: /teaching/varnam
 venue: "ADA Rangamandira, Bangalore"
 date: 2011-06-11
 location: "Bangalore, India"
-url: "https://www.youtube.com/watch?v=_MtsuoV0JMM"
 ---
+
+url: "https://www.youtube.com/watch?v=_MtsuoV0JMM"

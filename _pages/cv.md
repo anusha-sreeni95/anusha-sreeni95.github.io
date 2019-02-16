@@ -45,12 +45,14 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
-Teaching
+Performances
 ======
-  <ul>{% for post in site.teaching %}
+  <ul>{% for post in site.performances %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+[Download resume here](http://anusha-sreeni95.github.io/files/Anusha_Sreenivasan_Resume.pdf)
