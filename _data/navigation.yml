@@ -9,8 +9,8 @@ main:
   - title: "Performances"
     url: /performances/
 
-  - title: "Achievements"
-    url: /achievements/
+  # - title: "Achievements"
+  #   url: /achievements/
 
   # - title: "Blog Posts"
   #   url: /year-archive/
