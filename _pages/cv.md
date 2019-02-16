@@ -8,9 +8,11 @@ redirect_from:
 ---
 
 {% include base_path %}
+[Download resume here](http://anusha-sreeni95.github.io/files/Anusha_Sreenivasan_Resume.pdf)
 
 Education
 ======
+* National Public School, Rajajinagar
 * B.E. in Computer Science, PES Institute of Technology, 2017
 
 Work experience
@@ -54,5 +56,3 @@ Performances
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
-
-[Download resume here](http://anusha-sreeni95.github.io/files/Anusha_Sreenivasan_Resume.pdf)
