@@ -1,8 +1,6 @@
 ---
 title: "Kandanaal Mudhalai"
 ---
-Kandanaam Mudhalai
-
 Ragam: Madhuvanthi
 
 [Watch Video](https://www.youtube.com/watch?v=jR_tkN-fUIY "We'll Do It Live")
