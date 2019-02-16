@@ -5,11 +5,11 @@ permalink: /publication/ICACCI
 excerpt: 'Video Web Tagging'
 date: 2018-09-21
 venue: '7th International Conference on Advances in Computing, Communications and Informatics'
-paperurl: 'http://academicpages.github.io/files/ICACCI.pdf'
+paperurl: 'http://anusha-sreeni95.github.io/files/ICACCI.pdf'
 citation: 'Anjana A, Anusha Sreenivasan, Animesh Sahay (2018). "Sangati - A social event web approach to index videos" <i>International Conference on Advances in Computing, Communications and Informatics</i>.'
 ---
 In its inception, the World Wide Web was a means of sharing text documents. As the Web has grown, the amount of non-text content (primarily image and video) has grown. The reason for the growth of image and video content is the desire of users to share their experiences. Video in particular has a very rich number of associations. For example, a goal scored at the last minute in a football game may have an association of "turning point of match" and should logically be hyperlinked to other similar events, as these associations are part of the experience the user would like to share and may be the reason for the user to take the video at that particular point. The amount of image and video content on the Web far exceeds the text content, and there are applications, such as Facebook, which provide support for image and video sharing. However, hyperlinking of video content does not still capture the full range of hyperlinks latent in the video making it difficult for users to share such experiences. We model a video as a social event web, which is a complex graph with hyperlinks between events. The event web can be linked to the WWW in a natural way. To discover hidden hyperlinks, we perform data mining of the event web using context from the event web and domain knowledge. Experiments on sports videos show the effectiveness of our framework and prove that our approach can provide richer hyperlinks between video segments, thereby extending the reach of the WWW to include the hidden content within videos and enabling users to share such links.
 
-[Download paper here](http://academicpages.github.io/files/ICACCI.pdf)
+[Download paper here](http://anusha-sreeni95.github.io/files/ICACCI.pdf)
 
 Recommended citation: Anjana A, Anusha Sreenivasan, Animesh Sahay (2018). "Sangati - A social event web approach to index videos" <i>International Conference on Advances in Computing, Communications and Informatics</i>.
