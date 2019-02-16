@@ -1,12 +1,11 @@
 ---
 title: "Kandanaal Mudhalai"
-<!-- permalink: /teaching/padam -->
 ---
 Kandanaam Mudhalai
 
 Ragam: Madhuvanthi
 
-[Watch Video]("https://www.youtube.com/watch?v=jR_tkN-fUIY")
+[Watch Video](https://www.youtube.com/watch?v=jR_tkN-fUIY "Kandanaal Mudhalai")
 
 Venue: ADA Rangamandira, Bangalore
 

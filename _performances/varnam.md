@@ -1,12 +1,11 @@
 ---
 title: "Varnam - Innum En Manam"
-<!-- permalink: /teaching/varnam -->
 ---
 Varnam: Innum En Manam
 
 Ragam: Charukeshi
 
-[Watch Video]("https://www.youtube.com/watch?v=_MtsuoV0JMM")
+[Watch Video](https://www.youtube.com/watch?v=_MtsuoV0JMM "Varnam - Innum En Manam")
 
 Venue: ADA Rangamandira, Bangalore
 
