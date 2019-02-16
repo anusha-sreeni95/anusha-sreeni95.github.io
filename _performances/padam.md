@@ -1,11 +1,9 @@
 ---
 title: "Kandanaal Mudhalai"
-collection: Ragam - Madhuvanthi
-type: "Bharathanatyam Arangetram"
 permalink: /teaching/padam
-venue: "ADA Rangamandira, Bangalore"
-date: 2011-06-11
-location: "Bangalore, India"
 ---
-
-url: "https://www.youtube.com/watch?v=jR_tkN-fUIY"
+Kandanaam Mudhalai
+Ragam: Madhuvanthi
+[Watch Video]("https://www.youtube.com/watch?v=jR_tkN-fUIY")
+Venue: ADA Rangamandira, Bangalore
+Date: 11-06-2011

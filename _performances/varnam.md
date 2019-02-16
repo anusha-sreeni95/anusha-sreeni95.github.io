@@ -1,11 +1,9 @@
 ---
 title: "Varnam - Innum En Manam"
-collection: Ragam - Charukeshi
-type: "Bharathanatyam Arangetram"
 permalink: /teaching/varnam
-venue: "ADA Rangamandira, Bangalore"
-date: 2011-06-11
-location: "Bangalore, India"
 ---
-
-url: "https://www.youtube.com/watch?v=_MtsuoV0JMM"
+Varnam: Innum En Manam
+Ragam: Charukeshi
+[Watch Video]("https://www.youtube.com/watch?v=_MtsuoV0JMM")
+Venue: ADA Rangamandira, Bangalore
+Date: 11-06-2011
