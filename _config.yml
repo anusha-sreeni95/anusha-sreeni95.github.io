@@ -172,7 +172,7 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  performances:
     output: true
     permalink: /:collection/:path/
   publications:
@@ -206,10 +206,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _performances
   - scope:
       path: ""
-      type: teaching
+      type: performances
     values:
       layout: single
       author_profile: true
@@ -252,7 +252,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Kolkata # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
