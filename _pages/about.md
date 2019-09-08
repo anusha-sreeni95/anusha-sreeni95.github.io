@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-A Computer Science graduate student at the University of Southern California with a work experience of two years at Endurance International Group(Directi) and Morgan Stanley as a software engineer.
+A Computer Science graduate student at the University of Southern California with a work experience of two years at Endurance International Group(Directi) and Morgan Stanley as a software engineer. I am currently the Senator of Computer Science of Viterbi Graduate Student Association at USC.
 
 Worked on projects dealing with image processing and machine learning. Particularly interested in the field of data mining. Active participant in hackathons and proud winner of the Wonder Coders hackathon organized by Walmart Labs. Also a member of ACM community at USC.
 
